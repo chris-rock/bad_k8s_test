@@ -1,4 +1,4 @@
-name: mondoo-scan
+name: mondoo-scan-k8s
 
 on:
   pull_request:
